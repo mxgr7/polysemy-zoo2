@@ -1,0 +1,86 @@
+{
+    "chronos": {
+        "branch": "master",
+        "description": "Haskell time library focusing on performance ",
+        "homepage": null,
+        "owner": "mxgr7",
+        "repo": "chronos",
+        "rev": "4cab5401815766cd98b6964b747b16a64bd8bedf",
+        "sha256": "0alcqpjp6309amdz9cj61ppk898i1ai9h6dh5b1lqhf7wblqnblk",
+        "type": "tarball",
+        "url": "https://github.com/mxgr7/chronos/archive/4cab5401815766cd98b6964b747b16a64bd8bedf.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "date-combinators": {
+        "branch": "main",
+        "description": null,
+        "homepage": null,
+        "owner": "mxgr7",
+        "repo": "date-combinators",
+        "rev": "42ce3fb1b54f9f8a30b213c0326e2d623e537339",
+        "sha256": "1wk9y4npzkk67ncyb62lyqzkbrlxc17hdaqhqmcxj1ldrvcq63gd",
+        "type": "tarball",
+        "url": "https://github.com/mxgr7/date-combinators/archive/42ce3fb1b54f9f8a30b213c0326e2d623e537339.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "hoff": {
+        "branch": "main",
+        "description": "Haskell dataframes",
+        "homepage": null,
+        "owner": "mxgr7",
+        "repo": "hoff",
+        "rev": "35eda9dafd20399f3128a5c101f9ec669924d682",
+        "sha256": "010czdf5cpxd94l93vy2r80ynfh7sp5mjnxsr6vfjmprjfbi38pq",
+        "type": "tarball",
+        "url": "https://github.com/mxgr7/hoff/archive/35eda9dafd20399f3128a5c101f9ec669924d682.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "interval": {
+        "branch": "main",
+        "description": "Haskell library for finite and infinite intervals of any ordered type",
+        "homepage": null,
+        "owner": "mxgr7",
+        "repo": "interval",
+        "rev": "0323abae290e910c0203f6331a0e7918436d8f6c",
+        "sha256": "0ch2zqa0sq3kbzwmghk6ia6f42glli9vk9ixq33idw0304ia1jq1",
+        "type": "tarball",
+        "url": "https://github.com/mxgr7/interval/archive/0323abae290e910c0203f6331a0e7918436d8f6c.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "mach-nix": {
+        "branch": "master",
+        "description": "Create highly reproducible python environments",
+        "homepage": "",
+        "owner": "DavHau",
+        "repo": "mach-nix",
+        "rev": "3.5.0",
+        "sha256": "185qf6d5xg8qk1hb1y0b5gggr71vdz8v9d5ga4zg7dmcb1aypxcg",
+        "type": "tarball",
+        "url": "https://github.com/DavHau/mach-nix/archive/3.5.0.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "master",
+        "description": "Nix Packages collection",
+        "homepage": "",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "2b54954fdb4a25c6f9cf80cfd36c43e4c4577c0b",
+        "sha256": "1sn4az6xc2ag23pnxhh8dbgxnk757d5d63spnv93bnls9k3d9vrg",
+        "type": "tarball",
+        "url": "https://github.com/nixos/nixpkgs/archive/2b54954fdb4a25c6f9cf80cfd36c43e4c4577c0b.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "yahp": {
+        "branch": "main",
+        "description": "yet another Haskell prelude",
+        "homepage": null,
+        "owner": "mxgr7",
+        "repo": "yahp",
+        "rev": "e3b877b6108c263301725905a0bda64fbf2ae2d7",
+        "sha256": "0q7n9667xxkj2f0cswb6f5h7ms6y4zdhmjjn2b8ahljvpjbadbqr",
+        "type": "tarball",
+        "url": "https://github.com/mxgr7/yahp/archive/e3b877b6108c263301725905a0bda64fbf2ae2d7.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
